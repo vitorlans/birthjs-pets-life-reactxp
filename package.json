@@ -1,11 +1,11 @@
 {
-  "name": "rxp-hello-world",
+  "name": "birthjs_pets_life_reactxp",
   "version": "1.0.0",
   "private": true,
   "main": "index.js",
   "scripts": {
-    "web-watch": "webpack --progress --colors --watch",
-    "rn-watch": "tsc --watch",
+    "start-web": "webpack --progress --colors --watch",
+    "rn-start": "tsc --watch",
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
   "devDependencies": {
